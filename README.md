@@ -143,10 +143,10 @@ To excel in these roles, professionals should be proficient in programming langu
 
 ### Rust Courses
 
-1. [Rust Fundamentals by Duke University](https://www.classcentral.com/report/best-rust-courses/): This course welcomes learners of all levels, from the programming newbie to the pro. It provides a solid foundation in Rust programming and develops proficiency in advanced concepts.
+1. [Rust Fundamentals by Duke University](https://www.coursera.org/learn/rust-fundamentals): This course welcomes learners of all levels, from the programming newbie to the pro. It provides a solid foundation in Rust programming and develops proficiency in advanced concepts.
 
 
-2. [Introductory Course for the Curious by Linux Foundation](https://www.classcentral.com/report/best-rust-courses/): This course is perfect for those who wonder why they should learn Rust in addition to C or other legacy programming languages. It covers the basic syntax of Rust, ways to fix and improve Rust code, and the Rust toolchain.
+2. [Best Rust Courses](https://www.classcentral.com/report/best-rust-courses/): This course is perfect for those who wonder why they should learn Rust in addition to C or other legacy programming languages. It covers the basic syntax of Rust, ways to fix and improve Rust code, and the Rust toolchain.
 
 
 3. [Comprehensive Rust by Google](https://google.github.io/comprehensive-rust/): This is a free Rust course developed by the Android team at Google. The course covers the full spectrum of Rust, from basic syntax to advanced topics like generics and error handling.
