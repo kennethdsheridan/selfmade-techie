@@ -92,10 +92,6 @@ Here are some common roles in blockchain engineering along with their estimated 
 
 3. **[Blockchain UX Designer](https://www.analyticsinsight.net/career-guide-all-you-need-to-know-about-a-blockchain-ux-designer/)**: They focus on creating user-friendly interfaces for blockchain applications, ensuring a seamless user experience. The average salary for a UX Designer in the United States is approximately $93,101 per year.
 
-4. **[Blockchain Quality Engineer](https://www.spiceworks.com/tech/it-careers-skills/articles/blockchain-engineer/amp/)**: These engineers are responsible for testing and ensuring the quality of blockchain applications and systems. The average salary for a Quality Engineer in the United States is approximately $71,000 per year.
-
-5. **[Blockchain Legal Consultant](https://www.toptal.com/blockchain/job-description)**: They provide legal advice and guidance on blockchain-related matters, such as regulatory compliance and intellectual property. The average salary for a Legal Consultant in the United States is approximately $81,000 per year.
-
 These salaries can vary widely depending on factors such as location, years of experience, level of education, and specific skills.
 
 To excel in these roles, professionals should be proficient in programming languages like Solidity, Go, Rust, and JavaScript, as well as have a deep understanding of blockchain architecture and cryptography. As the demand for blockchain engineers continues to grow, learning these skills and pursuing a career in this field can lead to numerous opportunities and a promising future.
