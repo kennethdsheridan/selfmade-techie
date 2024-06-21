@@ -156,13 +156,13 @@ To excel in these roles, professionals should be proficient in programming langu
 1. [Introduction to Linux (LFS101x) by Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/): This free course helps you develop a good working knowledge of Linux using both the graphical interface and command line across the major Linux distribution families.
 
 
-2. [Linux Administration: The Complete Linux Bootcamp for 2023](https://www.udemy.com/topic/linux/): This course is one of the top courses in Linux and Linux Command Line on Udemy.
+2. [Linux Administration: The Complete Linux Bootcamp for 2023](https://www.udemy.com/course/master-linux-administration/?couponCode=24T6MT62024): This course is one of the top courses in Linux and Linux Command Line on Udemy.
 
 
-3. [Mastering Linux: The Comprehensive Guide](https://www.udemy.com/topic/linux/): This course on Udemy provides a comprehensive guide to mastering Linux.
+3. [Mastering Linux: The Comprehensive Guide](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?couponCode=24T6MT62024): This course on Udemy provides a comprehensive guide to mastering Linux.
 
 
-4. [Complete Red Hat Linux Training](https://www.udemy.com/topic/linux/): This Udemy course provides complete training for Red Hat Linux.
+4. [Complete Red Hat Linux Training](https://www.udemy.com/course/complete-red-hat-certified-system-administration-boot-camp/?couponCode=24T6MT62024): This Udemy course provides complete training for Red Hat Linux.
 
 
 ### Microsoft Azure Training: Machine Learning & AI Courses
