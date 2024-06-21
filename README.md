@@ -79,7 +79,7 @@ These salaries can vary widely depending on factors such as location, years of e
 - [What is UI/UX Design? (with Nana)](https://www.youtube.com/watch?v=4frLlFtFybY): Nana Janashia's content is well-regarded for its comprehensive and practical approach to teaching complex technical concepts.
 - [Frontend Development – HTML, CSS, JavaScript Course with Bonus Projects](https://youtube.com/watch?v=un6ZyFkqFKo): This comprehensive frontend development course for beginners guides you through key concepts and techniques to write performant, idiomatic HTML, CSS, and JavaScript code.
 - [Learn Frontend Development by Building 11 Projects – Full Course](https://youtube.com/watch?v=jFfo23yIWac): This course takes your frontend development skills to the next level by teaching you how to build 10 projects using HTML, CSS, and JavaScript.
-- [Frontend Development Tutorial for Beginners | Full Course](https://youtube.com/watch?v=YS4e4q9oBaU): This full course provides a detailed overview of frontend development, covering everything from setting up a local development environment to learning core concepts and syntax.
+- [Golang Tutorial for Beginners | Full Course](https://youtube.com/watch?v=YS4e4q9oBaU): This full course provides a detailed overview of frontend development, covering everything from setting up a local development environment to learning core concepts and syntax.
 
 ### Blockchain Engineering
 Blockchain engineering involves designing, building, and maintaining blockchain systems and applications, which securely record transactions across multiple computers. This technology has gained popularity in various industries, including finance, supply chain, and healthcare, due to its security, transparency, and decentralized nature.
