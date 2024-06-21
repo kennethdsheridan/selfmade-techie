@@ -49,7 +49,6 @@ Details: Here are some Cyber Security courses on Udemy, along with the estimated
 **AWS:**
 1. [AWS Certified Security - Specialty Certification](https://www.udemy.com/course/aws-certified-security-specialty/): This course validates your expertise in creating and implementing security solutions in the AWS Cloud. The average salary for an AWS Certified Security Specialist in the United States ranges from $114,000 to $160,000 annually.
 
-These figures are estimates and actual salaries may vary based on factors such as location, years of experience, and level of expertise.
 
 Details: Here are some generic Cyber Security courses on Udemy, along with the estimated pay ranges for professionals in this field:
 
@@ -59,7 +58,6 @@ Details: Here are some generic Cyber Security courses on Udemy, along with the e
 
 3. [Cyber Security for Beginners 2023](https://www.udemy.com/course/cyber-security-for-beginners-v2023/): This course provides an introduction to cybersecurity, covering topics such as threat landscape, cryptography, and network security. The average salary for a Cyber Security Analyst in the United States ranges from $76,410 to $117,459 annually.
 
-These figures are estimates and actual salaries may vary based on factors such as location, years of experience, and level of expertise.
 
 ## Frontend Engineering
 
@@ -73,7 +71,6 @@ Based on the search results, here are the estimated pay ranges for various roles
 
 4. **JavaScript Developer**: The average salary for a JavaScript Developer in the United States is approximately $110,156 per year.
 
-These salaries can vary widely depending on factors such as location, years of experience, level of education, and specific skills.
 
 - [Frontend Development with Nana](https://www.youtube.com/watch?v=t8pPdKYpowI&pp=ygURbGVhcm4gcHl0aG9uIG5hbmE%3D): This comprehensive course by Nana Janashia provides a detailed introduction to frontend development, covering everything from setting up a local development environment to learning core concepts and syntax.
 - [What is UI/UX Design? (with Nana)](https://www.youtube.com/watch?v=4frLlFtFybY): Nana Janashia's content is well-regarded for its comprehensive and practical approach to teaching complex technical concepts.
@@ -92,7 +89,6 @@ Here are some common roles in blockchain engineering along with their estimated 
 
 3. **[Blockchain UX Designer](https://www.analyticsinsight.net/career-guide-all-you-need-to-know-about-a-blockchain-ux-designer/)**: They focus on creating user-friendly interfaces for blockchain applications, ensuring a seamless user experience. The average salary for a UX Designer in the United States is approximately $93,101 per year.
 
-These salaries can vary widely depending on factors such as location, years of experience, level of education, and specific skills.
 
 To excel in these roles, professionals should be proficient in programming languages like Solidity, Go, Rust, and JavaScript, as well as have a deep understanding of blockchain architecture and cryptography. As the demand for blockchain engineers continues to grow, learning these skills and pursuing a career in this field can lead to numerous opportunities and a promising future.
 
@@ -188,36 +184,18 @@ Microsoft Azure AI Services Training Resources offers a set of AI training conte
 - [Building AI Applications with Microsoft Azure AI Services](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/)
 - [Natural Language Processing in Microsoft Azure](https://docs.microsoft.com/en-us/learn/paths/natural-language-processing/)
 
-These courses and certifications cover a range of topics including Azure Machine Learning, Azure AI Services, and more.
-
-These courses provide in-depth knowledge, hands-on experience, and practice exams to help you prepare for the Microsoft Azure Certified - Professional Machine Learning Engineer exam.
-
-Please note that the availability of these courses and certifications may vary, and it's recommended to check the official websites for the most up-to-date information.
-
 ### Microsoft Azure Training: Machine Learning & AI Courses
 
 [Microsoft Azure Training](https://docs.microsoft.com/en-us/learn/azure/) offers a variety of machine learning and AI classes. These courses can help you prepare for job roles like Data Scientist, Machine Learning Engineer, or AI Specialist. Some of the courses include:
 
-- [Microsoft Azure Machine Learning Embark](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-ml/)
-- [Practical Data Science with Microsoft Azure AI Platform](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/)
-- [Deep Learning on Microsoft Azure](https://docs.microsoft.com/en-us/learn/paths/introduction-to-deep-learning/)
-- [AI/ML Operations (MLOps) with Microsoft Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/mlops-fundamentals/)
-- [Building Intelligent Applications with Microsoft Azure AI Services](https://docs.microsoft.com/en-us/learn/paths/azure-ai-fundamentals/)
-
-These courses cover a range of topics including Azure Machine Learning, Azure AI Services, and more.
 
 ### Microsoft Azure AI Services Training Resources
 
 Microsoft Azure AI Services Training Resources offers a set of AI training content. Some of the courses and certifications include:
 
 - [Get started with Microsoft Azure AI Platform](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
-- [Perform foundational ML, AI and data tasks in Microsoft Azure](https://docs.microsoft.com/en-us/learn/paths/perform-foundational-data-ai-tasks-in-azure/)
 - [Language, Speech, Text, and Translation with Microsoft Azure Speech-to-Text, Text-to-Speech, and Translation API](https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/)
-- [Microsoft Certified - Professional Machine Learning Engineer](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/)
-- [Building AI Applications with Microsoft Azure AI Services](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/)
-- [Natural Language Processing in Microsoft Azure](https://docs.microsoft.com/en-us/learn/paths/natural-language-processing/)
 
-These courses and certifications cover a range of topics including Azure Machine Learning, Azure AI Services, and more.
 
 ### Udemy Courses for Microsoft Azure Certifications
 
@@ -225,44 +203,25 @@ Udemy offers several courses to help you prepare for Microsoft Azure certificati
 
 Details: Here are some Microsoft Azure Certified Professional Machine Learning Engineer courses on Udemy, along with the estimated pay ranges for professionals with this certification:
 
-- [Microsoft Azure Certified Professional Machine Learning Engineer 2023](https://www.udemy.com/course/azure-machine-learning/): This course provides comprehensive training to prepare you for the Microsoft Azure Certified Professional Machine Learning Engineer exam. The average salary for a Microsoft Azure Certified Professional Machine Learning Engineer in the United States ranges from $120,000 to $190,000 annually.
+- [Microsoft Azure Certified Professional Machine Learning Engineer 2023](https://www.udemy.com/course/ai102-azure/?couponCode=24T6MT62024): This course provides comprehensive training to prepare you for the Microsoft Azure Certified Professional Machine Learning Engineer exam. The average salary for a Microsoft Azure Certified Professional Machine Learning Engineer in the United States ranges from $120,000 to $190,000 annually.
 
 
-- [Microsoft Azure Certified Professional Machine Learning Engineer - Hands On!](https://www.udemy.com/course/azure-machine-learning-using-python/): This hands-on course is designed to help you ace the Microsoft Azure Certified Professional Machine Learning Engineer exam, with a mix of in-depth theory, architectural diagrams, and hands-on training. The pay range for professionals with this certification is similar to the previous course, ranging from $120,000 to $190,000 annually.
+- [Microsoft Azure Certified Professional Machine Learning Engineer - Hands On!](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/?couponCode=24T6MT62024): This hands-on course is designed to help you ace the Microsoft Azure Certified Professional Machine Learning Engineer exam, with a mix of in-depth theory, architectural diagrams, and hands-on training. The pay range for professionals with this certification is similar to the previous course, ranging from $120,000 to $300,000 annually.
 
 
-- [Microsoft Azure Certified Professional Machine Learning Engineer Full Practice Exam](https://www.udemy.com/course/azure-ai-fundamentals-ai-900-practice-tests/): This course offers a full practice exam to help you prepare for the Microsoft Azure Certified Professional Machine Learning Engineer exam. The pay range for professionals with this certification is also similar, ranging from $120,000 to $190,000 annually.
+- [Microsoft Azure Certified Professional AI Machine Learning Engineer Full Practice Exam](https://www.udemy.com/course/azure-ai-fundamentals-ai-900-practice-tests/): This course offers a full practice exam to help you prepare for the Microsoft Azure Certified Professional Machine Learning Engineer exam. The pay range for professionals with this certification is also similar, ranging from $120,000 to $300,000 annually.
 
-These figures are estimates and actual salaries may vary based on factors such as location, years of experience, and level of expertise.
-
-These courses provide in-depth knowledge, hands-on experience, and practice exams to help you prepare for the Microsoft Azure Certified - Professional Machine Learning Engineer exam.
-
-Please note that the availability of these courses and certifications may vary, and it's recommended to check the official websites for the most up-to-date information.
 
 ### AWS Training: Machine Learning & AI Courses
 
 [AWS Training](https://aws.amazon.com/training/learn-about/machine-learning/) offers a variety of machine learning and AI classes. These courses can help you prepare for job roles like Data Scientist, Machine Learning Engineer, or AI Specialist. Some of the courses include:
 
-- [AWS Machine Learning Embark](https://aws.amazon.com/training/course-descriptions/machine-learning-embark/)
-- [Practical Data Science with Amazon SageMaker](https://aws.amazon.com/training/course-descriptions/practical-data-science/)
+
+- [Practical Data Science with Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 - [Deep Learning on AWS](https://aws.amazon.com/training/course-descriptions/deep-learning/)
-- [AI/ML Operations (MLOps) with AWS DevOps](https://aws.amazon.com/training/course-descriptions/mlops/)
-- [Building Intelligent Applications with AWS AI Services](https://aws.amazon.com/training/course-descriptions/building-intelligent-applications/)
+- [AI/ML Operations (MLOps) with AWS DevOps](https://aws.amazon.com/what-is/mlops/)
 
 These courses cover a range of topics including Amazon SageMaker, AWS DeepRacer, AWS DeepComposer, AWS DeepLens, AWS Inferentia, and more[1].
-
-### AWS AI Services Training Resources
-
-[AWS AI Services Training Resources](https://aws.amazon.com/training/learning-paths/machine-learning/) offers a set of AI training content. Some of the courses and certifications include:
-
-- [Get started with Amazon SageMaker](https://aws.amazon.com/training/course-descriptions/getting-started-amazon-sagemaker/)
-- [Perform foundational ML, AI and data tasks in AWS](https://aws.amazon.com/training/course-descriptions/foundational-data-ai-tasks/)
-- [Language, Speech, Text, and Translation with Amazon Transcribe, Amazon Polly, Amazon Lex, and Amazon Translate](https://aws.amazon.com/training/course-descriptions/language-speech-text-translation/)
-- [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/training/course-descriptions/machine-learning-specialty/)
-- [Building AI Applications with AWS AI Services](https://aws.amazon.com/training/course-descriptions/building-ai-applications/)
-- [Natural Language Processing in AWS](https://aws.amazon.com/training/course-descriptions/natural-language-processing/)
-
-These courses and certifications cover a range of topics including Amazon SageMaker, Amazon Comprehend, Amazon Lex, Amazon Polly, and more.
 
 ### Udemy Courses for AWS Certifications
 
@@ -273,15 +232,6 @@ Details: Here are some AWS Certified Machine Learning Specialty courses on Udemy
 
 
 - [AWS Certified Machine Learning Specialty MLS-C01 [NEW 2023]](https://www.udemy.com/course/aws-certified-machine-learning-specialty-mls/): This course is designed to help you ace the Certified Machine Learning Specialty exam, with a mix of in-depth theory, architectural diagrams, and hands-on training. The pay range for professionals with this certification is similar to the previous course, ranging from $112,000 to $160,000 annually.
-
-
-- [AWS Certified Machine Learning Specialty Full Practice Exam](https://www.udemy.com/course/aws-machine-learning-practice-exam/): This course offers a full practice exam to help you prepare for the AWS Certified Machine Learning Specialty exam. The pay range for professionals with this certification is also similar, ranging from $112,000 to $160,000 annually.
-
-These figures are estimates and actual salaries may vary based on factors such as location, years of experience, and level of expertise.
-
-These courses provide in-depth knowledge, hands-on experience, and practice exams to help you prepare for the AWS Certified Machine Learning - Specialty exam.
-
-Please note that the availability of these courses and certifications may vary, and it's recommended to check the official websites for the most up-to-date information.
 
 ## ServiceNow Training: Career Journey Courses
 
@@ -354,7 +304,7 @@ Here is the requested information formatted into Markdown:
 
 ## Contact and Socials
 
-**Email:** kennethdsheridan@gmail.com
+**Email:** kennethdashensheridan@gmail.com
 
 **Social Media and Other Platforms:**
 
@@ -362,6 +312,5 @@ Here is the requested information formatted into Markdown:
 - [TikTok](https://www.tiktok.com/@kennyknightsheridan?_t=8i3DZQJhD8l&_r=1)
 - [Threads](https://www.threads.net/@kennethdashen)
 - [Facebook](https://www.facebook.com/knight.sheridan?mibextid=2JQ9oc)
-- [GitLab](https://gitlab.com/kennethdsheridan)
 - [GitHub](https://github.com/kennethdsheridan)
 
