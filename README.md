@@ -71,10 +71,9 @@ Based on the search results, here are the estimated pay ranges for various roles
 
 4. **JavaScript Developer**: The average salary for a JavaScript Developer in the United States is approximately $110,156 per year.
 
-
-- [Frontend Development with Nana](https://www.youtube.com/watch?v=t8pPdKYpowI&pp=ygURbGVhcm4gcHl0aG9uIG5hbmE%3D): This comprehensive course by Nana Janashia provides a detailed introduction to frontend development, covering everything from setting up a local development environment to learning core concepts and syntax.
-- [What is UI/UX Design? (with Nana)](https://www.youtube.com/watch?v=4frLlFtFybY): Nana Janashia's content is well-regarded for its comprehensive and practical approach to teaching complex technical concepts.
-- [Frontend Development – HTML, CSS, JavaScript Course with Bonus Projects](https://youtube.com/watch?v=un6ZyFkqFKo): This comprehensive frontend development course for beginners guides you through key concepts and techniques to write performant, idiomatic HTML, CSS, and JavaScript code.
+- [Frontend Development - Frontend Masters](https://frontendmasters.com/): This comprehensive frontend development course for beginners guides you through key concepts and techniques to write performant, idiomatic HTML, CSS, and JavaScript code.
+- [Python Development with Nana](https://www.youtube.com/watch?v=t8pPdKYpowI&pp=ygURbGVhcm4gcHl0aG9uIG5hbmE%3D): This comprehensive course by Nana Janashia provides a detailed introduction to frontend development, covering everything from setting up a local development environment to learning core concepts and syntax.
+- [ChatGPT Design with Nana](https://www.youtube.com/watch?v=4frLlFtFybY): Nana Janashia's content is well-regarded for its comprehensive and practical approach to teaching complex technical concepts.
 - [Learn Frontend Development by Building 11 Projects – Full Course](https://youtube.com/watch?v=jFfo23yIWac): This course takes your frontend development skills to the next level by teaching you how to build 10 projects using HTML, CSS, and JavaScript.
 - [Golang Tutorial for Beginners | Full Course](https://youtube.com/watch?v=YS4e4q9oBaU): This full course provides a detailed overview of frontend development, covering everything from setting up a local development environment to learning core concepts and syntax.
 
@@ -109,6 +108,11 @@ To excel in these roles, professionals should be proficient in programming langu
 
 
 5. **Database Administrator**: Database Administrators are responsible for the performance, integrity, and security of a database. They are involved in the planning and development of the database, as well as troubleshooting any issues on behalf of the users. The average salary for a Database Administrator in the United States is around $93,750, with a range from $70,000 to $130,000.
+
+### Backend Courses
+https://www.boot.dev/
+1. [Lean backend development the fun way with Boot.dev](https://www.boot.dev/): This course provides a comprehensive introduction to Go, covering everything from the basics to advanced topics.
+
 ### Golang Courses
 
 1. [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/): This course provides a comprehensive introduction to Go, covering everything from the basics to advanced topics.
@@ -120,22 +124,14 @@ To excel in these roles, professionals should be proficient in programming langu
 3. [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/): This course covers a wide range of topics in Go, including Go's concurrency model, how to organize code using packages, and how to test and debug your Go applications.
 
 
-4. [Golang with Nana](https://www.youtube.com/watch?v=t8pPdKYpowI&pp=ygURbGVhcm4gcHl0aG9uIG5hbmE%3D): This comprehensive course by Nana Janashia provides a detailed introduction to Go, a popular programming language in the cloud engineering world.
+4. [Golang with Nana](https://www.youtube.com/watch?v=yyUHQIec83I): This comprehensive course by Nana Janashia provides a detailed introduction to Go, a popular programming language in the cloud engineering world.
 
 
-5. [What is Platform Engineering? (with Nana)](https://www.youtube.com/watch?v=4frLlFtFybY): Nana Janashia's content is well-regarded for its comprehensive and practical approach to teaching complex technical concepts.
+5. [What is Platform Engineering? (with Nana)](https://youtu.be/ghzsBm8vOms?si=jyErDkLLOfaElhnB): Nana Janashia's content is well-regarded for its comprehensive and practical approach to teaching complex technical concepts.
 
 
 6. [Go Programming – Golang Course with Bonus Projects](https://youtube.com/watch?v=un6ZyFkqFKo): This comprehensive Go programming course for beginners guides you through key concepts and techniques to write performant, idiomatic Go code.
 
-
-7. [Learn Go Programming by Building 11 Projects – Full Course](https://youtube.com/watch?v=jFfo23yIWac): This course takes your Go programming skills to the next level by teaching you how to build 10 projects using Go.
-
-
-8. [Golang Tutorial for Beginners | Full Go Course](https://youtube.com/watch?v=YS4e4q9oBaU): This full course provides a detailed overview of Go, covering everything from setting up a local development environment to learning core concepts and syntax.
-
-
-9. [Learn Go Programming - Golang Tutorial for Beginners](https://youtube.com/watch?v=YS4e4q9oBaU): This tutorial serves as a stepping-off point to go through a survey of the entire Go language, hitting some of the key libraries along the way.
 
 ### Rust Courses
 
