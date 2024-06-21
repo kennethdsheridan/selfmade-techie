@@ -65,11 +65,11 @@ These figures are estimates and actual salaries may vary based on factors such a
 
 Based on the search results, here are the estimated pay ranges for various roles in the tech industry:
 
-1. **Front End Developer**: The average salary for a Front End Developer in the United States is approximately $112,255 per year. For those with 7+ years of experience, the average salary is $122,033. The salary range typically falls between $106,922 and $130,083[11].
+1. **Front End Developer**: The average salary for a Front End Developer in the United States is approximately $112,255 per year. For those with 7+ years of experience, the average salary is $122,033. The salary range typically falls between $106,922 and $130,083.
 
-2. **UI/UX Designer**: The average salary for a UI/UX Designer in the United States is approximately $93,101 per year. The average UX design salary is $94,351 and can go up to $95,572. The average hourly pay for a UI/UX Designer is $53.94[6][12].
+2. **UI/UX Designer**: The average salary for a UI/UX Designer in the United States is approximately $93,101 per year. The average UX design salary is $94,351 and can go up to $95,572. The average hourly pay for a UI/UX Designer is $53.94.
 
-3. **Web Designer**: The average salary for a Web Designer in the United States is approximately $57,000 per year, with a range from $60,117 to $75,185. The average hourly pay for a Web Designer is $25.43[13].
+3. **Web Designer**: The average salary for a Web Designer in the United States is approximately $57,000 per year, with a range from $60,117 to $75,185. The average hourly pay for a Web Designer is $25.43.
 
 4. **JavaScript Developer**: The average salary for a JavaScript Developer in the United States is approximately $110,156 per year.
 
